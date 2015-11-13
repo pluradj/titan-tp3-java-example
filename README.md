@@ -1,7 +1,7 @@
 Titan - TinkerPop3 Java Example
 ===============================
 
-Simple Java example showing a shortest path calculation using Titan 0.9 and TinkerPop 3.0.
+Simple Java example showing a shortest path calculation using Titan 1.0 and TinkerPop 3.0.
 
 https://groups.google.com/d/msg/aureliusgraphs/5ixzSuUveD4/wdWT6boZFAAJ
 

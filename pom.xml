@@ -14,7 +14,7 @@
     </licenses>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <titan.version>0.9.0-M2</titan.version>
+        <titan.version>1.0.0</titan.version>
     </properties>
     <dependencies>
         <dependency>
